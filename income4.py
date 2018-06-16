@@ -6,7 +6,7 @@ Created on Fri Jun 15 21:00:02 2018
 @author: macuser
 """
 
-3# Implementation of Gaussian NB on Census Income dataset
+# Implementation of Gaussian NB on Census Income dataset
 
 # Required Python Machine learning Packages
 import pandas as pd
