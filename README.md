@@ -6,5 +6,5 @@ Execution screenshots - Imcome3 Screen Shot #1,2,3,4,5,6
 
 Income4 - Implementation of Gaussian NB on Census Income dataset
 
-xecution screenshots - Imcome4 Screen Shot #1
+Execution screenshots - Imcome4 Screen Shot #1
 
